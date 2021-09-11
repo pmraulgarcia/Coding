@@ -26,7 +26,7 @@
 #     print('Escribe la opción correcta')
 
 def suma(a, b):
-    print('Se suman dos números: ')
+    print('Se suman dos números: usando una función ')
     resultado = a + b
     return resultado
 
